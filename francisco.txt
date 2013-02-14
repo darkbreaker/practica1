@@ -1,0 +1,3 @@
+se crea un archivo en el repo llamado .gitignore que buscara sus reglas para ignorar achivos cuando se haga el commit, no ignorara archivos que se estaban siguiendo.
+.gitignore 
+
